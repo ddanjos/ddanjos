@@ -34,12 +34,14 @@ Sou desenvolvedor de software com foco em soluções backend utilizando o ecossi
 
 ## 📂 Repositórios em Destaque
 
-🔹 [**MeuProjeto.API**](https://github.com/seunome/MeuProjeto.API)  
+<!--🔹 [**MeuProjeto.API**](https://github.com/seunome/MeuProjeto.API)  
 REST API construída com ASP.NET Core 7, aplicando arquitetura limpa e autenticação JWT.
 
 🔹 [**CleanArchTemplate**](https://github.com/seunome/CleanArchTemplate)  
 Template base para novos projetos com foco em boas práticas de design, testabilidade e separação de responsabilidades.
+-->
 
+Privados no momento :_
 ---
 
 ## 🧠 Atualmente estou aprendendo
