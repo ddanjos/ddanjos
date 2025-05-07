@@ -26,7 +26,7 @@ Sou desenvolvedor de software com foco em soluções backend utilizando o ecossi
 <img align="left" alt="Python" height="30px" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" />
 <img align="left" alt="Oracle SQL" height="30px" src="https://m.media-amazon.com/images/I/41QodfboFdL.png" />
 <img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img align="left" alt="Git" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1NhbNuwKb7-3TB9dNrGyjXjv2bwXfLEsAg&s" />
+<img align="left" alt="Postgres" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1NhbNuwKb7-3TB9dNrGyjXjv2bwXfLEsAg&s" />
 
 <br /><br />
 
