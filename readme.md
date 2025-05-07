@@ -23,7 +23,7 @@ Sou desenvolvedor de software com foco em soluções backend utilizando o ecossi
 
 <img align="left" alt="C#" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt=".NET" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" />
-<img align="left" alt="SQL Server" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Python" height="30px" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" />
 <img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
 <br /><br />
