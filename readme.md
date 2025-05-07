@@ -22,7 +22,7 @@ Sou desenvolvedor de software com foco em soluções backend utilizando o ecossi
 ## 🛠️ Stack Principal
 
 <img align="left" alt="C#" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
+<img align="left" alt=".NET" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" />
 <img align="left" alt="SQL Server" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 
