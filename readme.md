@@ -1,6 +1,6 @@
 <!-- README para perfil de usuário GitHub com foco em C# -->
 
-<h1 align="center">Console.Writeline("Hello Word my friend")</h1>
+<h1 align="center">Console.Writeline("Hello Word My Friend")</h1>
 
 <p align="center">
   <strong>Desenvolvedor .NET | C# | Python</strong>
