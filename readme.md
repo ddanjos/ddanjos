@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Bem vindo </></h1>
 
 <p align="center">
-  <strong>Desenvolvedor .NET | C# | APIs | Python </strong>
+  <strong>Desenvolvedor .NET | C# | Python |</strong>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Sou desenvolvedor de software. Tenho experiência com:
 
 ---
 
-## 📂 Repositórios em Destaque
+## 📂 Trabalhando atualmente
 
 <!--🔹 [**MeuProjeto.API**](https://github.com/seunome/MeuProjeto.API)  
 REST API construída com ASP.NET Core 7, aplicando arquitetura limpa e autenticação JWT.
@@ -42,7 +42,9 @@ REST API construída com ASP.NET Core 7, aplicando arquitetura limpa e autentica
 Template base para novos projetos com foco em boas práticas de design, testabilidade e separação de responsabilidades.
 -->
 
-Privados no momento :_
+- Automações WEB com Python - Selenium
+- Razor Pages C#
+- C# WPF e SignaLR (Comunicação em tempo real)
 ---
 
 
@@ -53,4 +55,4 @@ Privados no momento :_
 
 ---
 
-🧑‍💻 *"Código limpo é aquele que é fácil de entender e fácil de modificar." — Robert C. Martin*
+🧑‍💻 *"Poucas linhas de código podem resolver grandes problemas" — Davidy P. Anjos*
