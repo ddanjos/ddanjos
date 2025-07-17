@@ -1,6 +1,6 @@
 <!-- README para perfil de usuário GitHub com foco em C# -->
 
-<h1 align="center">👨‍💻 Bem vindo </></h1>
+<h1 align="center">👨‍💻 Hello Word my friend </></h1>
 
 <p align="center">
   <strong>Desenvolvedor .NET | C# | Python |</strong>
