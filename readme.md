@@ -3,7 +3,7 @@
 <h1 align="center">👨‍💻 Hello Word my friend </></h1>
 
 <p align="center">
-  <strong>Desenvolvedor .NET | C# | Python |</strong>
+  <strong>Desenvolvedor .NET | C# | Python</strong>
 </p>
 
 ---
