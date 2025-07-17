@@ -1,18 +1,19 @@
 <!-- README para perfil de usuário GitHub com foco em C# -->
 
-<h1 align="center">👨‍💻 Bem vindo :)</h1>
+<h1 align="center">👨‍💻 Bem vindo </></h1>
 
 <p align="center">
-  <strong>Desenvolvedor .NET | C# | Backend | APIs | Arquitetura Limpa</strong>
+  <strong>Desenvolvedor .NET | C# | APIs | Python </strong>
 </p>
 
 ---
 
 ## 💡 Sobre mim
 
-Sou desenvolvedor de software com foco em soluções backend utilizando o ecossistema .NET. Tenho experiência com:
+Sou desenvolvedor de software. Tenho experiência com:
 
-- Desenvolvimento de APIs RESTful com ASP.NET Core
+- Automações em Python
+- API Restful C#
 - Clean Architecture
 - Integração com bancos de dados relacionais
 - Boas práticas de segurança, legibilidade e performance
@@ -44,13 +45,6 @@ Template base para novos projetos com foco em boas práticas de design, testabil
 Privados no momento :_
 ---
 
-## 🧠 Atualmente estou aprendendo
-
-- 🌐 Blazor & WebAssembly
-- 🔐 NetCore
-- ☁️ 
-
----
 
 ## 📫 Contato
 
