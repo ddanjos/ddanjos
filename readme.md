@@ -1,6 +1,6 @@
 <!-- README para perfil de usuário GitHub com foco em C# -->
 
-<h1 align="center">Console.Writeline("Hello Word My Friend")</h1>
+<h1 align="center">Console.Writeline("Hello Word")</h1>
 
 <p align="center">
   <strong>Desenvolvedor .NET | C# | Python</strong>
@@ -10,14 +10,11 @@
 
 ## 💡 Sobre mim
 
-Sou desenvolvedor de software. Tenho experiência com:
-
 - Automações em Python
 - API Restful C#
 - Clean Architecture
 - Integração com bancos de dados relacionais
-- Boas práticas de segurança, legibilidade e performance
-
+  
 ---
 
 ## 🛠️ Stack Principal
@@ -43,15 +40,16 @@ Template base para novos projetos com foco em boas práticas de design, testabil
 -->
 
 - Automações WEB com Python - Selenium
-- Razor Pages C#
-- C# WPF e SignaLR (Comunicação em tempo real)
+- Razor Pages
+- AspNetCore API
+
 ---
 
 
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpjyauh/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidypaixao5@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ddanjos.dev@gmail.com)
 
 ---
 
