@@ -38,9 +38,12 @@ REST API construída com ASP.NET Core 7, aplicando arquitetura limpa e autentica
 Template base para novos projetos com foco em boas práticas de design, testabilidade e separação de responsabilidades.
 -->
 
+- C# Background Workers
 - Automações WEB com Python - Selenium
-- Razor Pages
+- C# Razor Pages
 - AspNetCore API
+- C# Frontend WPF
+- Consoles C#  
 
 ---
 
