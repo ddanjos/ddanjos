@@ -23,7 +23,7 @@
 <img align="left" alt=".NET" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" />
 <img align="left" alt="Python" height="30px" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" />
 <img align="left" alt="Oracle SQL" height="30px" src="https://alternative.me/media/256/oracle-sql-developer-icon-rf1kww6wbiiiuoso-c.png" />
-<img align="left" alt="Postgres" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc1NhbNuwKb7-3TB9dNrGyjXjv2bwXfLEsAg&s" />
+<img align="left" alt="Postgres" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 
 <br /><br />
 
