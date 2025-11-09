@@ -10,10 +10,8 @@
 
 ## 💡 Sobre mim
 
-- Automações em Python
-- API Restful C#
-- Clean Architecture
-- Integração com bancos de dados relacionais
+Comecei com scripts em Batch (.bat) e descobri o poder das linguagens de programação para resolver problemas reais. 
+Evoluí para C# e Python, ampliando minhas possibilidades de criar soluções voltadas à área da saúde.
   
 ---
 
