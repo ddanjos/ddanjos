@@ -11,7 +11,7 @@
 ## 💡 Sobre mim
 
 Comecei com scripts em Batch (.bat) e descobri o poder das linguagens de programação para resolver problemas reais. 
-Evoluí para C# e Python, ampliando minhas possibilidades de criar soluções voltadas à área da saúde.
+Evoluí para C# e Python, ampliando minhas possibilidades de criar soluções em diferentes ambientes.
   
 ---
 
@@ -29,20 +29,9 @@ Evoluí para C# e Python, ampliando minhas possibilidades de criar soluções vo
 
 ## 📂 Trabalhando atualmente
 
-<!--🔹 [**MeuProjeto.API**](https://github.com/seunome/MeuProjeto.API)  
-REST API construída com ASP.NET Core 7, aplicando arquitetura limpa e autenticação JWT.
 
-🔹 [**CleanArchTemplate**](https://github.com/seunome/CleanArchTemplate)  
-Template base para novos projetos com foco em boas práticas de design, testabilidade e separação de responsabilidades.
--->
-
-- C# Background Workers
-- Automações WEB com Python - Selenium
-- C# Razor Pages
-- AspNetCore API
-- C# Frontend WPF
-- Consoles C#  
-
+- FrontEnd - Razor Pages, WPF, React
+- Backend - C#, Python, ASP Net
 ---
 
 
