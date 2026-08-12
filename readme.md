@@ -69,9 +69,7 @@ namespace DeveloperProfile
 <br/>
 
 <div align="center">
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=ddanjos&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
-</div>
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=ddanjos&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
   <img height="150" src="https://streak-stats.demolab.com?user=ddanjos&theme=dark&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=E6EDF3&dates=888888&border=00F0FF&hide_border=true" />
 </div>
 
