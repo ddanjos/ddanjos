@@ -29,7 +29,7 @@
     <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddanjos&theme=dark" />
   </a>
   <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c#,python,sqloracle,&perline=10&theme=dark" />
 </div>
 
 </div>
