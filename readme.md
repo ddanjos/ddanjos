@@ -35,6 +35,11 @@
   <img src="https://komarev.com/ghpvc/?username=github&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
 </div>
 
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=github&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
+
 <br/>
 
 <!-- Troféus de Conquistas do GitHub -->
