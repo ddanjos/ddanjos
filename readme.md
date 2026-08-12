@@ -70,7 +70,7 @@ namespace DeveloperProfile
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ddanjos&show_icons=true&theme=dark&bg_color=0d1117&title_color=00f0ff&text_color=e6edf3&icon_color=00f0ff&hide_border=true&count_private=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=ddanjos&theme=dark&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=E6EDF3&dates=888888&border=00F0FF&hide_border=true" />
+
 </div>
 
 <br/>
