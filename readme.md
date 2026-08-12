@@ -26,15 +26,17 @@ namespace DeveloperProfile
 ````
 
 <br/>
-
-<h3>// Operações & Atuação</h3>
-
-| Camada | Tecnologias |
-| :--- | :--- |
-| **FrontEnd** | `Razor Pages` • `WPF` • `React` |
-| **BackEnd** | `C#` • `ASP.NET Core` • `Python` |
-
-<br/>
+````csharp
+namespace DeveloperProfile
+{
+    public enum Layer
+    {
+        FrontEnd = "Razor Pages • WPF • React",
+        BackEnd  = "C# • ASP.NET Core • Python"
+    }
+}
+````
+</br>
 
 <h3>// GitHub Analytics</h3>
 
