@@ -1,9 +1,9 @@
-<div align="center">
-
   <!-- Header Banner Matrix/Cyan Cyan Neon -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Console.WriteLine(%22Hello%20World%22);&fontSize=30&fontColor=0D1117&animation=twinkling&desc=Desenvolvedor%20.NET%20|%20C%23%20|%20Python&descSize=18&descColor=0D1117&descAlign=50&descAlignY=70" width="100%" />
-
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/stats?username=github&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=github&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
 </div>
+
 
 <br/>
 
@@ -40,10 +40,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=github&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=github&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
-</div>
+
 
 
 <br/>
