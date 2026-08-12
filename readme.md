@@ -23,6 +23,8 @@
 <div align="center">
 
   <!-- Stats Alternativas com visual Cyan / Dark -->
+ <div align="center">
+
   <a href="https://github.com/ddanjos">
     <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddanjos&theme=dark" />
   </a>
