@@ -31,21 +31,12 @@
   <div align="center">
  <img src="https://skillicons.dev/icons?i=nodejs,linux,react,postgres,cs,bash&perline=10&theme=dark" /></div>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ddanjos&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
-</div>
-
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/streak?username=ddanjos&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-<!-- Troféus de Conquistas do GitHub -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ddanjos&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
-</div>
 
 ---
 
