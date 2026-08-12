@@ -5,14 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Console.WriteLine(%22Hello%20World%22);&fontSize=30&fontColor=0D1117&animation=twinkling&desc=Desenvolvedor%20.NET%20|%20C%23%20|%20Python&descSize=18&descColor=0D1117&descAlign=50&descAlignY=70" width="100%" />
 
 </div>
-
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/activity?username=ddanjos&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
+</div>
 
 <br/>
 
-<!-- Gráfico Futurista de Atividade em Onda (Activity Graph) -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ddanjos&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" />
-</div>
 
 <br/>
 
@@ -37,9 +35,7 @@
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/streak?username=ddanjos&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=ddanjos&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
-</div>
+
 
 
 
