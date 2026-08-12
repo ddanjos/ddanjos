@@ -24,7 +24,7 @@ namespace DeveloperProfile
     }
 }
 ````
-<h3>// System.Profile: Sobre Mim</h3>
+<h3>// System.Profile.Stack: Tecnologias</h3>
 
 ````csharp
 namespace DeveloperProfile
