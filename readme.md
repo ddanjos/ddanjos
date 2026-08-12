@@ -17,8 +17,8 @@
 <div align="center">
 
   <!-- Estatísticas com tema Cyberpunk / Neon -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidyAnjos&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidyAnjos&layout=compact&theme=cyberpunk&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ddanjos&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddanjos&layout=compact&theme=cyberpunk&hide_border=true" />
 
 </div>
 
