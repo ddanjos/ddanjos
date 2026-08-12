@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
   <!-- Banner Principal -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Console.WriteLine(%22Hello%20World%22);&fontSize=26&fontColor=0D1117&animation=twinkling&desc=Desenvolvedor%20.NET%20|%20C%23%20|%20Python&descSize=15&descColor=0D1117&descAlign=50&descAlignY=62" width="100%" />
@@ -37,7 +37,7 @@ namespace DeveloperProfile
 
 <h3>// Operações & Atuação</h3>
 
-<table>
+<table style = "width: 100%">
   <thead>
     <tr>
       <th align="left">Camada</th>
