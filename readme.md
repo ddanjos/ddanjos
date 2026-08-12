@@ -27,38 +27,14 @@ namespace DeveloperProfile
 
 <br/>
 
-<h3>// Tech Stack</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,postgres,linux,bash&perline=8&theme=dark" />
-</div>
-
-<br/>
-
 <h3>// Operações & Atuação</h3>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" width="25%">Camada</th>
-      <th align="left" width="75%">Tecnologias</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><b>FrontEnd</b></td>
-      <td align="left"><code>Razor Pages</code> • <code>WPF</code> • <code>React</code></td>
-    </tr>
-    <tr>
-      <td align="left"><b>BackEnd</b></td>
-      <td align="left"><code>C#</code> • <code>ASP.NET Core</code> • <code>Python</code></td>
-    </tr>
-  </tbody>
-</table>
+| Camada | Tecnologias |
+| :--- | :--- |
+| **FrontEnd** | `Razor Pages` • `WPF` • `React` |
+| **BackEnd** | `C#` • `ASP.NET Core` • `Python` |
 
 <br/>
-
-<hr/>
 
 <h3>// GitHub Analytics</h3>
 
