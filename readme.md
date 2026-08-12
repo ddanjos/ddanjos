@@ -37,7 +37,7 @@ namespace DeveloperProfile
 
 <h3>// Operações & Atuação</h3>
 
-<table style = "width: 100%">
+<table width="100%">
   <thead>
     <tr>
       <th align="left">Camada</th>
