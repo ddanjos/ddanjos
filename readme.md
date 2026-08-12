@@ -30,7 +30,9 @@
   </a>
   <div align="center">
  <img src="https://skillicons.dev/icons?i=nodejs,linux,react,postgres,cs,bash&perline=10&theme=dark" /></div>
-
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=github&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
 </div>
 
 <br/>
