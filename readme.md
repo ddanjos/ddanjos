@@ -32,12 +32,12 @@
  <img src="https://skillicons.dev/icons?i=nodejs,linux,react,postgres,cs,bash&perline=10&theme=dark" /></div>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=github&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ddanjos&color=blue&style=flat&label=Profile%20Views" alt="Profile Views" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/streak?username=github&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=ddanjos&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br/>
