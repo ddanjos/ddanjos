@@ -1,45 +1,35 @@
-  <!-- Header Banner Matrix/Cyan Cyan Neon -->
 <div align="center">
 
-  <!-- Header Banner Matrix/Cyan Cyan Neon -->
+  <!-- Header Banner Matrix/Cyan -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Console.WriteLine(%22Hello%20World%22);&fontSize=30&fontColor=0D1117&animation=twinkling&desc=Desenvolvedor%20.NET%20|%20C%23%20|%20Python&descSize=18&descColor=0D1117&descAlign=50&descAlignY=70" width="100%" />
 
 </div>
+
+<br/>
+
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/activity?username=ddanjos&theme=tokyo-night&hide_border=false" alt="Activity Graph" />
 </div>
 
 <br/>
 
+<!-- Stats & Streak Side-by-Side / Centered -->
+<div align="center">
+
+  <a href="https://github.com/ddanjos">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddanjos&theme=dark" />
+  </a>
+  <img height="165" src="https://github-profile-maker.vercel.app/api/streak?username=ddanjos&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
+
+</div>
 
 <br/>
 
+<!-- Skill Icons -->
 <div align="center">
-
-  <!-- Stats estilo Dark Neon Minimalista -->
-<div align="center">
-
-  <!-- Stats estilo Dark Neon Minimalista -->
-<div align="center">
-
-  <!-- Stats Alternativas com visual Cyan / Dark -->
- <div align="center">
-
-  <a href="https://github.com/ddanjos">
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddanjos&theme=dark" />
-  </a>
-  <div align="center">
- <img src="https://skillicons.dev/icons?i=nodejs,linux,react,postgres,cs,bash&perline=10&theme=dark" /></div>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,postgres,oracle,linux,bash&perline=8&theme=dark" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/streak?username=ddanjos&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</div>
-
-
-
-
-
 
 <br/>
 
