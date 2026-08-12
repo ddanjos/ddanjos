@@ -20,11 +20,14 @@
 <div align="center">
 
   <!-- Stats estilo Dark Neon Minimalista -->
+<div align="center">
+
+  <!-- Stats Alternativas com visual Cyan / Dark -->
   <a href="https://github.com/ddanjos">
-    <img height="180" src="https://github-readme-stats-eight.vercel.app/api?username=ddanjos&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00f0ff&text_color=e6edf3&icon_color=00f0ff&border_radius=10&hide_border=true&count_private=true" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddanjos&theme=dark" />
   </a>
   <a href="https://github.com/ddanjos">
-    <img height="180" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=ddanjos&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00f0ff&text_color=e6edf3&border_radius=10&hide_border=true" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=ddanjos&theme=dark" />
   </a>
 
 </div>
