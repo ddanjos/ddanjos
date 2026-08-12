@@ -40,8 +40,8 @@ namespace DeveloperProfile
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">Camada</th>
-      <th align="left">Tecnologias</th>
+      <th align="left" width="25%">Camada</th>
+      <th align="left" width="75%">Tecnologias</th>
     </tr>
   </thead>
   <tbody>
