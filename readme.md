@@ -28,9 +28,9 @@
 
 <br/>
 
-<!-- Streak Stats (Sequência de Contribuições) em Formato Card Futurista -->
+<!-- Troféus de Conquistas do GitHub -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ddanjos&theme=dark&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=E6EDF3&dates=888888&border=00F0FF&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ddanjos&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 </div>
 
 ---
