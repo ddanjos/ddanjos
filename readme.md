@@ -30,7 +30,7 @@ namespace DeveloperProfile
 <h3>// Tech Stack</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,postgres,oracle,linux,bash&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,postgres,linux,bash&perline=8&theme=dark" />
 </div>
 
 <br/>
