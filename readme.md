@@ -1,45 +1,42 @@
-<!-- README para perfil de usuário GitHub com foco em C# -->
+<div align="center">
 
-<h1 align="center">Console.Writeline("Hello Word")</h1>
+  <!-- Header Banner Futurista -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Console.WriteLine(%22Hello%20World%22);&fontSize=32&fontColor=00FFFF&animation=twinkling&desc=Desenvolvedor%20.NET%20|%20C%23%20|%20Python&descSize=18&descAlign=50&descAlignY=70" width="100%" />
 
-<p align="center">
-  <strong>Desenvolvedor .NET | C# | Python</strong>
-</p>
+  <!-- Snake Game (Animação de Contribuições) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake activity" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 
----
+</div>
 
-## 💡 Sobre mim
+<br/>
 
-Comecei com scripts em Batch (.bat) e descobri o poder das linguagens de programação para resolver problemas reais. 
-Evoluí para C# e Python, ampliando minhas possibilidades de criar soluções em diferentes ambientes.
-  
----
+<div align="center">
 
-## 🛠️ Stack Principal
+  <!-- Estatísticas com tema Cyberpunk / Neon -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidyAnjos&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidyAnjos&layout=compact&theme=cyberpunk&hide_border=true" />
 
-<img align="left" alt="C#" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt=".NET" height="30px" src="https://hermes.dio.me/articles/cover/496931d9-69d6-4956-bb0a-032dd5792ade.png" />
-<img align="left" alt="Python" height="30px" src="https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png" />
-<img align="left" alt="Oracle SQL" height="30px" src="https://alternative.me/media/256/oracle-sql-developer-icon-rf1kww6wbiiiuoso-c.png" />
-<img align="left" alt="Postgres" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-
-<br /><br />
+</div>
 
 ---
 
-## 📂 Trabalhando atualmente
+### ⚡ // System.Profile: Sobre Mim
 
+```csharp
+namespace DeveloperProfile
+{
+    public class DavidyAnjos : Developer
+    {
+        public string Init()
+        {
+            return "Comecei com scripts em Batch (.bat) e descobri o poder da programação.";
+        }
 
-- FrontEnd - Razor Pages, WPF, React
-- Backend - C#, Python, ASP Net
----
-
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpjyauh/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ddanjos.dev@gmail.com)
-
----
-
-🧑‍💻 *"Poucas linhas de código podem resolver grandes problemas" — Davidy P. Anjos*
+        public string[] CurrentStack => new[] { "C#", "Python", ".NET" };
+        public string Goal => "Criar soluções eficientes em diferentes ambientes.";
+    }
+}
