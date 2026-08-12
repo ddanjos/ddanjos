@@ -24,7 +24,7 @@ namespace DeveloperProfile
     }
 }
 ````
-<h3>// System.Profile.Stack: Tecnologias</h3>
+<h3>// Tecnologias</h3>
 
 ````csharp
 namespace DeveloperProfile
@@ -55,7 +55,7 @@ namespace DeveloperProfile
 
 <hr/>
 
-<h3>// Terminal De Contato</h3>
+<h3>// Contato</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dpjyauh/" target="_blank">
