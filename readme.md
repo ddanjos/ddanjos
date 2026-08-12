@@ -7,7 +7,7 @@
 
 <br/>
 
-<h3>⚡ // System.Profile: Sobre Mim</h3>
+<h3>// System.Profile: Sobre Mim</h3>
 
 <pre>
 namespace DeveloperProfile
@@ -27,7 +27,7 @@ namespace DeveloperProfile
 
 <br/>
 
-<h3>🛠️ // Tech Stack</h3>
+<h3>// Tech Stack</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,postgres,oracle,linux,bash&perline=8&theme=dark" />
@@ -35,7 +35,7 @@ namespace DeveloperProfile
 
 <br/>
 
-<h3>📂 // Operações & Atuação</h3>
+<h3>// Operações & Atuação</h3>
 
 <table>
   <thead>
@@ -60,7 +60,7 @@ namespace DeveloperProfile
 
 <hr/>
 
-<h3>📊 // GitHub Analytics</h3>
+<h3>// GitHub Analytics</h3>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ddanjos&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true" />
@@ -77,7 +77,7 @@ namespace DeveloperProfile
 
 <hr/>
 
-<h3>🌐 // Terminal De Contato</h3>
+<h3>// Terminal De Contato</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dpjyauh/" target="_blank">
