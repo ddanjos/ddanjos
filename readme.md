@@ -23,14 +23,6 @@ namespace DeveloperProfile
 }
 
 ```
-
-<div align="center">
-
-  <!-- Header Banner Matrix/Cyan -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=220&section=header&text=Console.WriteLine(%22Hello%20World%22);&fontSize=30&fontColor=0D1117&animation=twinkling&desc=Desenvolvedor%20.NET%20|%20C%23%20|%20Python&descSize=18&descColor=0D1117&descAlign=50&descAlignY=70" width="100%" />
-
-</div>
-
 <br/>
 
 <!-- Activity Graph -->
