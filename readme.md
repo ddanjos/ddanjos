@@ -69,7 +69,7 @@ namespace DeveloperProfile
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-maker.vercel.app/api/top-langs?username=ddanjos&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+    <img src="https://github-profile-maker.vercel.app/api/top-langs?username=ddanjos&theme=react-dark&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
   <img height="150" src="https://streak-stats.demolab.com?user=ddanjos&theme=dark&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=E6EDF3&dates=888888&border=00F0FF&hide_border=true" />
 </div>
 
