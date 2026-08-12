@@ -30,7 +30,7 @@
 
 <!-- Streak Stats (Sequência de Contribuições) em Formato Card Futurista -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddanjos&theme=dark&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=E6EDF3&dates=888888&border=00F0FF&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ddanjos&theme=dark&background=0D1117&fire=00F0FF&ring=00F0FF&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=00F0FF&sideLabels=E6EDF3&dates=888888&border=00F0FF&hide_border=true" />
 </div>
 
 ---
