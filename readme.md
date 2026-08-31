@@ -64,7 +64,7 @@ namespace DeveloperProfile
 <br/>
 
 <div align="center">
-  <sub><i>"Poucas linhas de código podem resolver grandes problemas"</i> — <b>Davidy P. Anjos</b></sub>
+  <sub><i>"Poucas linhas de código podem resolver grandes problemas"</i> — <b>Davidy</b></sub>
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F0FF&height=3&section=footer" width="100%" />
 </div>
