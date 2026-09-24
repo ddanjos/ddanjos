@@ -31,7 +31,7 @@ namespace DeveloperProfile
 {
     public enum Layer
     {
-        FrontEnd = "Razor Pages • WPF • React",
+        FrontEnd = "Razor Pages • WPF • Angular",
         BackEnd  = "C# • ASP.NET Core • Python"
     }
 }
